@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.djulyanr.twa",
-        "sha256_cert_fingerprints": ["94:BE:BE:66:40:0A:05:B5:A4:B0:07:FF:BF:84:ED:DE:76:49:96:63:FA:D2:C9:7A:BC:74:20:5B:5C:73:4A:76"]
+        "sha256_cert_fingerprints": ["7A:75:DA:81:FB:27:25:79:00:FD:08:50:41:F6:30:56:A4:1F:3F:B4:B6:D1:AE:97:FE:CC:76:76:32:BF:04:93"]
       }
     }]
